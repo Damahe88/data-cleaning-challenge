@@ -1,6 +1,12 @@
 # data-cleaning-challenge
 ## Data Cleaning Methods and exploration
 
+## Exploring:
+
+The exploring_data.ipynb notebook contains identification and documentation on issues I have found in the data set.
+
+For two issues I have written short methods that are reusable in future cases that can be imported from src/cleaning_helpers.py
+
 ## Branches:
 
 - main -> production
@@ -24,3 +30,4 @@ Virtuelle environment:
     - pip install -r requirements.txt
 
 ### Testing still has to be implemented! 
+    
