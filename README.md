@@ -15,7 +15,7 @@ For two issues I have written short methods that are reusable in future cases th
 
 ## Features will be developed in feature branches:
 - Feature branches are always based on main:
-- convention feature/#####_<name>
+- convention feature/#####_name
 - feature merges into test
 - test merges into main
     
